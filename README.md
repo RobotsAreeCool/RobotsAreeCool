@@ -1,5 +1,6 @@
 ## hello
 its me uhh the guy i code stuff and host my website here (as of now)
+go find me on yt.
 
 <!--
 **RobotsAreeCool/RobotsAreeCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
