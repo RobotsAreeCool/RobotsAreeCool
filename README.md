@@ -1,5 +1,5 @@
 ## hello
-its me uhh the guy i code stuff and host my website here (as of now)
+its me uhh the guy i code stuff and host my website here (as of now, i think im gonna change it after i figure out how to work it with cloudflare)
 go find me on yt.
 
 <!--
